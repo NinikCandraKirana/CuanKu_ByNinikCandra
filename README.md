@@ -6,6 +6,7 @@ Tujuan utama CuanKu adalah membantu pengguna memahami prioritas keuangan mereka,
 
 # Identitas
 Nama : Ninik Candra Kirana NIM : 12030121140273 Mata Kuliah_Kelas : Pengkodean dan Pemrograman_E 
+
 Anggota Kelompok :
 1. Aulia Dwi Paresti
 2. Ninik Candra Kirana
@@ -33,4 +34,5 @@ Untuk lebih jelasnya terkait project yang kami buat, maka kami menyediakan makal
 
 # Daftar Pustaka
 https://github.com/AndhikaRei/Cent
+
 Terima kasih kepada owner's yang sudah mengizinkan kami untuk menggunakan hasil projectnya sebagai bahan untuk memenuhi  Tugas Akhir Pengkodean dan Pemrograman kami. Selain itu terima kasih juga kepada semua pihak yang telah menyukseskan pengerjaan project dan penyusunan makalah ini.
