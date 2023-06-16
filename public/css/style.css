@@ -1,0 +1,185 @@
+/* navbar */
+html {
+    background-color: #f2f2f2;
+}
+
+.grey {
+    background-color: #f2f2f2;
+}
+
+.menu-titles {
+    color: #87040d !important;
+    font-weight: 700;
+    width: 90% !important;
+    margin: 0 auto;
+    font-size: 0.9rem;
+}
+
+.navbar-brand {
+    width: 15% !important;
+}
+
+@media (max-width: 500px) {
+    .navbar-header {
+        display: flex;
+    }
+
+    .navbar-brand {
+        margin-left: 40%;
+    }
+
+    .menutoggle {
+        margin-left: auto;
+    }
+    .card-header {
+        font-size: 1rem !important;
+    }
+    .save-form input {
+        font-size: 0.8rem !important;
+    }
+    .save-form label {
+        font-size: 0.9rem !important;
+    }
+}
+
+/*  */
+body,
+.login-form {
+    background-color: #7b95a8 !important;
+}
+
+.login-logo {
+    margin: 0;
+}
+
+.cent-logo {
+    width: 50%;
+}
+
+input {
+    border-radius: 4em !important ;
+    border: 2px solid #0c0c0c !important;
+    padding: 1em !important;
+}
+
+.btn-cent {
+    background-color: #0f3855;
+    color: #f6f6f6;
+    font-weight: bold;
+    width: 100%;
+    border: 0.4px solid #0a0347;
+    padding: 0.3em 0;
+    border-radius: 4em;
+    font-size: 1.1rem;
+    letter-spacing: 0.7px;
+    margin-bottom: 0.5em;
+    cursor: pointer;
+}
+
+.signup-login-redirect,
+.signup-forgotPassword,
+.signup-login-redirect {
+    color: #0f3855 !important;
+    font-weight: bold;
+}
+
+.signup-forgotPassword,
+.signup-login-redirect {
+    border-bottom: 2px solid #0f3855;
+}
+
+.card-header {
+    border: none;
+    background-color: #67879e;
+    text-align: center;
+    font-size: 1.4rem;
+    border: 2px solid #07015f
+}
+.card {
+    min-height: 50vh;
+}
+
+.card-money {
+    min-height: 30vh;
+}
+
+.card-body {
+    background-color: #bcc6ce;
+    border: 2px solid #07015f
+}
+
+.card-money-body {
+    display: grid;
+    grid-template-rows: 1fr 3fr;
+    grid-gap: 1.2em;
+}
+
+.card-money-body h4 {
+    font-size: 1rem;
+    background-color: #67879e;
+    padding: 0.3em 1em;
+    border-radius: 1em;
+    width: fit-content;
+    padding-bottom: 0.3em;
+    font-weight: bold;
+    border: 2px solid #07015f
+}
+
+.card-money-body h2 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.card-money-body a {
+    font-weight: 700;
+    color: #0f3855;
+}
+
+.card-body-text {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* savings */
+.savings-form {
+    text-align: center;
+}
+
+/* Chart */
+.chart > * {
+    background-color: #bcc6ce;
+    border: 2px solid #07015f
+}
+}
+
+.card-chart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+}
+
+.card-chart h3 {
+    margin-right: auto;
+    margin-bottom: 1em;
+}
+
+.legend-chart {
+    margin-right: auto;
+}
+
+.legend {
+    display: none;
+}
+
+.essentials {
+    color: rgb(47, 150, 81);
+}
+
+.wants {
+    color: rgb(126, 36, 36);
+}
+
+.savings {
+    color: blue;
+}
